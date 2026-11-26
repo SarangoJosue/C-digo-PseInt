@@ -1,2 +1,2 @@
-# C-digo-PseInt
+# RaizSmart
 Código de PseInt sobre el proyecto  
